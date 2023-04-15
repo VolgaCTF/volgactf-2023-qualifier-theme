@@ -1,0 +1,19 @@
+{
+  "name": "volgactf-2023-qualifier-theme",
+  "version": "0.1.0",
+  "description": "VolgaCTF 2023 Qualifier theme",
+  "main": "bin/server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VolgaCTF/volgactf-2023-qualifier-theme.git"
+  },
+  "author": "VolgaCTF",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/VolgaCTF/volgactf-2023-qualifier-theme/issues"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "express": "^4.16.2"
+  }
+}
