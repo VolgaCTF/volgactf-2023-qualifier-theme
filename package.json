@@ -1,6 +1,6 @@
 {
   "name": "volgactf-2023-qualifier-theme",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "VolgaCTF 2023 Qualifier theme",
   "main": "bin/server.js",
   "repository": {
